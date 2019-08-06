@@ -1,0 +1,50 @@
+- name: 總覽
+  href: index.md
+- name: 快速入門
+  items:
+    - name: Bot 開發人員
+      href: getting-started/bots.md
+    - name: Windows 開發人員
+      href: getting-started/windows.md
+    - name: Outlook 開發人員
+      href: getting-started/outlook.md
+- name: 撰寫卡片
+  items:
+    - name: 快速入門
+      href: authoring-cards/getting-started.md
+    - name: 卡片架構
+      href: 'https://adaptivecards.io/explorer'
+    - name: 語音
+      href: authoring-cards/speech.md
+    - name: 文字功能
+      href: authoring-cards/text-features.md
+- name: 呈現卡片
+  items:
+    - name: 快速入門
+      href: rendering-cards/getting-started.md
+    - name: 動作
+      href: rendering-cards/actions.md
+    - name: 主機設定
+      href: rendering-cards/host-config.md
+    - name: 擴充性
+      href: rendering-cards/extensibility.md
+    - name: 轉譯器狀態
+      href: rendering-cards/renderer-status.md
+    - name: 執行轉譯器
+      href: rendering-cards/implement-a-renderer.md
+- name: SDK
+  items:
+    - name: 撰寫卡片
+      href: sdk/authoring-cards/toc.yml
+    - name: 呈現卡片
+      href: sdk/rendering-cards/toc.yml
+- name: 資源
+  items:
+    - name: 主體
+      href: resources/principles.md
+    - name: 家
+      href: resources/partners.md
+    - name: 工具
+      href: resources/tools.md
+    - name: 藍圖
+      href: resources/future.md
